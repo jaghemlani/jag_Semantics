@@ -3,5 +3,5 @@
 
 this is a webpage for horiseon. the provide services to help your company and also have a lot of benefits.
 
-![screenshot of applictaion](./assets/images/Screenshot%202023-12-20%20212711.jpg)
+![screenshot of application](./assets/images/Screenshot%202023-12-20%20212711.jpg)
 
